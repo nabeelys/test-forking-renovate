@@ -5,7 +5,7 @@
   ],
   "packageRules": [
     {
-      "additionalBranchPrefix": "rnv-",
+      "additionalBranchPrefix": "rnv/",
       "matchPaths": ["**"],
       "addLabels": ["chore-renovate"]
     }
